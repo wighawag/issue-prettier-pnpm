@@ -1,0 +1,8 @@
+{
+  "name": "test-common",
+  "main": "src/index.js",
+  "type": "module",
+  "devDependencies": {
+    "@ethersproject/bignumber": "^5.0.15"
+  }
+}
