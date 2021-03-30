@@ -1,5 +1,5 @@
 import {BigNumber} from '@ethersproject/bignumber';
 
 export function test() {
-  return BigNumber.from(0);
+  return BigNumber.from(3);
 }
