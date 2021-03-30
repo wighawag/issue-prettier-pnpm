@@ -23,7 +23,7 @@ importers:
       '@ethersproject/bignumber': ^5.0.15
   main:
     dependencies:
-      test-common: 'link:../common-lib'
+      common-lib: 'link:../common-lib'
     devDependencies:
       '@sveltejs/adapter-node': 1.0.0-next.10
       '@sveltejs/kit': 1.0.0-next.64_svelte@3.36.0+vite@2.1.4
@@ -49,7 +49,7 @@ importers:
       svelte: ^3.29.0
       svelte-preprocess: ^4.6.9
       tailwindcss: ^2.0.3
-      test-common: 'workspace:*'
+      common-lib: 'workspace:*'
       tslib: ^2.0.0
       typescript: ^4.0.0
       vite: ^2.1.0

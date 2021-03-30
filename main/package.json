@@ -28,6 +28,6 @@
     "node": ">= 12.17.0"
   },
   "dependencies": {
-    "test-common": "workspace:*"
+    "common-lib": "workspace:*"
   }
 }

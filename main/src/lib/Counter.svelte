@@ -1,5 +1,5 @@
 <script lang="ts">
-	import {test} from 'test-common';
+	import {test} from 'common-lib';
 	let count = test();
 
 	const increment = (): void => {
